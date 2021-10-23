@@ -1,0 +1,122 @@
+[
+    {
+        "firstname": "Subrata",
+        "lastname": "Das",
+        "Age": "21",
+        "mobile": "01761145875",
+        "Password": "abcdefgh2021@",
+        "file": null
+    },
+    {
+        "firstName": null,
+        "lastName": null,
+        "age": null,
+        "mobile": null,
+        "password": null
+    },
+    {
+        "firstName": null,
+        "lastName": null,
+        "age": null,
+        "mobile": null,
+        "password": null
+    },
+    {
+        "firstName": null,
+        "lastName": null,
+        "age": null,
+        "mobile": null,
+        "password": null
+    },
+    {
+        "firstName": null,
+        "lastName": null,
+        "age": null,
+        "mobile": null,
+        "password": null
+    },
+    {
+        "firstName": "Assadujjaman",
+        "lastName": "Bikas",
+        "age": "22",
+        "mobile": "01790058053",
+        "password": "abikash22@ggmiu"
+    },
+    {
+        "firstName": null,
+        "lastName": null,
+        "age": null,
+        "mobile": null,
+        "password": null
+    },
+    {
+        "firstName": null,
+        "lastName": null,
+        "age": null,
+        "mobile": null,
+        "password": null
+    },
+    {
+        "firstName": null,
+        "lastName": null,
+        "age": null,
+        "mobile": null,
+        "password": null
+    },
+    {
+        "firstName": null,
+        "lastName": null,
+        "age": null,
+        "mobile": null,
+        "password": null
+    },
+    {
+        "firstName": null,
+        "lastName": null,
+        "age": null,
+        "mobile": null,
+        "password": null
+    },
+    {
+        "firstName": null,
+        "lastName": null,
+        "age": null,
+        "mobile": null,
+        "password": null
+    },
+    {
+        "fname": null,
+        "lname": null,
+        "age": null,
+        "mobile": null,
+        "password": null
+    },
+    {
+        "fname": null,
+        "lname": null,
+        "age": null,
+        "mobile": null,
+        "password": null
+    },
+    {
+        "fname": null,
+        "lname": null,
+        "age": null,
+        "mobile": null,
+        "password": null
+    },
+    {
+        "fname": "Assadujjaman",
+        "lname": "Bikas",
+        "age": "22",
+        "mobile": "01790058053",
+        "password": "abikash22@ggmiu"
+    },
+    {
+        "fname": "Assadujjaman",
+        "lname": "Bikassd",
+        "age": "52",
+        "mobile": "01790058043",
+        "password": "adsafdfgfgd@3334"
+    }
+]
